@@ -1,0 +1,2 @@
+# klaseiobjekat
+klase
